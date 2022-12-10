@@ -13,9 +13,8 @@ N/A
 
 ## Usage
 
-This is a helpful reference for when myself or other bootcamp students get stuck or confused on any basic code related subjects.
+This is a helpful reference for when myself or other bootcamp students get stuck or confused on any basic programming related subjects.
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
