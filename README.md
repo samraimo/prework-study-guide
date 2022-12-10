@@ -15,7 +15,6 @@ N/A
 
 This is a helpful reference for when myself or other bootcamp students get stuck or confused on any basic code related subjects.
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
